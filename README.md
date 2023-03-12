@@ -1,4 +1,5 @@
 # fractal_builder
-Fractal Builder. Educational project. 
+2D Fractal Builder. \
+Educational Project. 
 
 ![screenshot](https://github.com/altirtix/fractal_builder/blob/main/screenshot.png)
